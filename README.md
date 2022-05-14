@@ -1,9 +1,14 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/36810167/168218601-64ba2ffc-e108-4de9-b5c1-ed5e162ec74d.jpg">
 </p>
-
-- 👋 Hi, I’m Gagan Deep S
-- 👀 I’m interested in Java, Web Development, Hadoop. HIVE, GCP.
+<h1 align="center"> Hi there, I'm Gagan 👋 </h1>
+https://mystorage.netlify.app/
+- 🔭 Check out my sample website : [Become A VS Code SuperHero!][c
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2022 Goals: Learn more about web3
+- ⚡ Fun fact: I love to draw and play guitar / drums
+- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
 - 🌱 I’m currently learning Spark, Abinitio, GCP
 - 💞️ I’m looking to collaborate on Spark and Java Based Technologies
 - 📫 To reach me, Please contact me at ***gaganr0000@gmail.com***
@@ -30,6 +35,12 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="gcp" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" style="padding-right:10px;" />
 <img align="left" alt="hadoop" width="26px" src="./image/hadoop.svg" style="padding-right:10px;" />
 <img align="left" alt="hive" width="26px" src="./image/Apache_Hive_logo.svg" style="padding-right:10px;" />
+
+<br/>
+
+<h3>Connect with me: </h3>
+#
+
 
 
 
