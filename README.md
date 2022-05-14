@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/36810167/168218601-64ba2ffc-e108-4de9-b5c1-ed5e162ec74d.jpg">
+</p>
+
 - 👋 Hi, I’m Gagan Deep S
 - 👀 I’m interested in Java, Web Development, Hadoop. HIVE, GCP.
 - 🌱 I’m currently learning Spark, Abinitio, GCP
