@@ -39,8 +39,8 @@ You can click the Preview link to take a look at your changes.
 
 ### Connect with me:
 
-[![website](./image/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./image/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](./image/globe-light.svg)](https://mystorage.netlify.app#gh-light-mode-only)
+[![website](./image/globe-dark.svg)](https://mystorage.netlify.app/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./image/linkedin-light.svg)](https://linkedin.com/in/gagan_deep023#gh-light-mode-only)
 [![website](./image/linkedin-dark.svg)](https://linkedin.com/in/gagan_deep023#gh-dark-mode-only)
