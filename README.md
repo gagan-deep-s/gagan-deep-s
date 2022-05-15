@@ -2,16 +2,13 @@
   <img src="https://user-images.githubusercontent.com/36810167/168218601-64ba2ffc-e108-4de9-b5c1-ed5e162ec74d.jpg">
 </p>
 <h1 align="center"> Hi there, I'm Gagan 👋 </h1>
-https://mystorage.netlify.app/
-- 🔭 Check out my sample website : [Become A VS Code SuperHero!][c
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+
+- 🔭 Check out my sample website : <a href="https://mystorage.netlify.app/">mystorage</a>
 - 🌱 I’m currently learning Spark, Abinitio, GCP
 - 💞️ I’m looking to collaborate on Spark and Java Based Technologies
-- 📫 To reach me, Please contact me at ***gaganr0000@gmail.com***
+- 🥅 2022 Goals: Learn more about spark
+- ⚡ Fun fact: I love to play carrom and listen music<br/>
+<!-- - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW) -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gagan-deep-s)](https://github.com/gagan-deep-s)
 
@@ -21,6 +18,8 @@ https://mystorage.netlify.app/
 gagan-deep-s/gagan-deep-s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+### Languages and Tools:
 
 <img align="left" alt="java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -38,11 +37,16 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
-<h3>Connect with me: </h3>
-#
+### Connect with me:
 
-
-
+[![website](./image/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[![website](./image/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./image/linkedin-light.svg)](https://linkedin.com/in/gagan_deep023#gh-light-mode-only)
+[![website](./image/linkedin-dark.svg)](https://linkedin.com/in/gagan_deep023#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./image/instagram-light.svg)](https://instagram.com/gagan-deep-s#gh-light-mode-only)
+[![website](./image/instagram-dark.svg)](https://instagram.com/gagan-deep-s#gh-dark-mode-only)
 
 
 
