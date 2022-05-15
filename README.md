@@ -39,10 +39,10 @@ You can click the Preview link to take a look at your changes.
 
 ### Connect with me:
 
-<a href="mailto:gaganr0000@gmail.com"> <img align="left" alt="java" width="26px" src="https://icongr.am/entypo/email.svg?size=128&color=currentColor" style="padding-right:10px;" /></a>
 [![website](./image/globe-light.svg)](https://mystorage.netlify.app#gh-light-mode-only)
 [![website](./image/globe-dark.svg)](https://mystorage.netlify.app/#gh-dark-mode-only)
 &nbsp;&nbsp;
+<a href="mailto:gaganr0000@gmail.com"> <img align="left" alt="java" width="26px" src="https://icongr.am/entypo/email.svg?size=128&color=currentColor" style="padding-right:10px;" /></a>
 [![website](./image/linkedin-light.svg)](https://linkedin.com/in/gagan_deep023#gh-light-mode-only)
 [![website](./image/linkedin-dark.svg)](https://linkedin.com/in/gagan_deep023#gh-dark-mode-only)
 &nbsp;&nbsp;
