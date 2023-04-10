@@ -4,7 +4,7 @@
 <h1 align="center"> Hi there, I'm Gagan 👋 </h1>
 
 - 🔭 Check out my sample website : <a href="https://mystorage.netlify.app/">mystorage</a>
-- 🌱 I’m currently learning Spark, Abinitio, GCP
+- 🌱 I’m currently learning Abinitio, GCP
 - 💞️ I’m looking to collaborate on Spark and Java Based Technologies
 - 🥅 2022 Goals: Learn more about spark
 - ⚡ Fun fact: I love to play carrom and listen music<br/>
